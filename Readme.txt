@@ -1,0 +1,1 @@
+you can run the file using 'python subly.py' or you can just open 'Subly.bat', But make sure to run 'Setup.bat' at first, just incase you dont have the modules installed
